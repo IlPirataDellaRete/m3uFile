@@ -1,16 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/7A8HeaLk8t2l7aMU3qg7ZHwwz23.jpg" group-title="FILM", Crudelia (2021)
-https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3589/v.mp4
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/2ZfUpDXEFQxEyXfzfxGFA9rcbP1.jpg" group-title="FILM", '71 (2014)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/2537/v.mp4
 
-#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="FILM", Avengers Endgame (2019)
-https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3666/v.mp4
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/g7CzmEJtmTgRnegr2bnpMWePsDR.jpg" group-title="FILM", ...E alla fine arriva Polly (2004)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/1724/v.mp4
 
-#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/oOZKEsFm0KtqxQJowdisXDju9xc.jpg" group-title="SERIE TV", Community 1x01
-https://f4a8b63e-0af4-44d2-a5bf-28d04b80ccb9.id.repl.co/5327/v.mp4
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/hV0apdymJmePAnkZmUSRjRXbJdf.jpg" group-title="FILM", ...e venne il giorno della vendetta (1964)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3629/v.mp4
 
-#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/oOZKEsFm0KtqxQJowdisXDju9xc.jpg" group-title="SERIE TV", Community 1x02
-https://f4a8b63e-0af4-44d2-a5bf-28d04b80ccb9.id.repl.co/5328/v.mp4
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/dpFhqEVfyvDAUskfcmpiALhQmky.jpg" group-title="FILM", ...non dite a mamma che la babysitter è morta (1991)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/2532/v.mp4
 
-#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/oOZKEsFm0KtqxQJowdisXDju9xc.jpg" group-title="SERIE TV", Community 1x03
-https://f4a8b63e-0af4-44d2-a5bf-28d04b80ccb9.id.repl.co/5328/v.mp4
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/dj9qOcyFZFspESu0tL15BFH9Eey.jpg" group-title="FILM", 1% - I fuorilegge (2018)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/770/v.mp4
+
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/jz1aH9vR1cHYsWPeAY3E7UMkxkH.jpg" group-title="FILM", 10 cose che odio di te (1999)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3833/v.mp4
+
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/3c8VdOdolyruux4wKSmrPyM1XRz.jpg" group-title="FILM", 10 giorni con Babbo Natale (2020)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3175/v.mp4
+
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/lJgoGQxcO5TyudsEi1pIjE3GnAc.jpg" group-title="FILM", 10 giorni d'oro (2012)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/771/v.mp4
+
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/rIz4XmEjYQHyzovwx1v80YOioqf.jpg" group-title="FILM", 10 giorni senza mamma (2019)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/2071/v.mp4
+
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/original/4SZ0gaObT4rzwZBUsF8EpEoSB2N.jpg" group-title="FILM", 10 Minutes Gone (2019)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/2342/v.mp4
+
