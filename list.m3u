@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/7A8HeaLk8t2l7aMU3qg7ZHwwz23.jpg" group-title="FILM", Crudelia (2021)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3589/v.mp4
+
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="FILM", Avengers Endgame (2019)
+https://5e46d91c-1256-49c9-bfef-6a23364db0f3.id.repl.co/3666/v.mp4
+
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/oOZKEsFm0KtqxQJowdisXDju9xc.jpg" group-title="SERIE TV", Community 1x01
+https://f4a8b63e-0af4-44d2-a5bf-28d04b80ccb9.id.repl.co/5327/v.mp4
+
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/oOZKEsFm0KtqxQJowdisXDju9xc.jpg" group-title="SERIE TV", Community 1x02
+https://f4a8b63e-0af4-44d2-a5bf-28d04b80ccb9.id.repl.co/5328/v.mp4
